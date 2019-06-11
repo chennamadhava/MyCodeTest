@@ -51,6 +51,8 @@ public class Varone {
 
 
  System.out.println("This is lbg");
+	    
+	     System.out.println("This is maven new project");
 
 
 
